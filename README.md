@@ -10,6 +10,10 @@ and to learn it in 2 days see this crash course:
 
 https://youtu.be/geR9PeCuHK4?si=SGGNqGNw4Ge_L81n
 
+An 8 hours crash course for Absolute Beginners (Highly Recommended)
+
+https://youtu.be/Ey18PDiaAYI?si=vBLreUVl4zeUCXn8
+
 AI Agents:
 
 https://www.youtube.com/watch?v=PfdnYe2690E
@@ -22,7 +26,9 @@ RAG:
 
 https://n8n.io/workflows/5148-local-chatbot-with-retrieval-augmented-generation-rag/
 
+Build Self Custom Nodes in N8N on Local: 
 
+https://youtu.be/nX_8OVhUVSY?si=XJYDgm2NLN1YfuP6
 
 ### What is “Agentic AI”?
 
@@ -69,5 +75,27 @@ By the end, you’ll have a production‑ready agentic stack that can:
 * Access to an LLM provider key (e.g., OpenAI, etc.)
 * An n8n instance (self‑hosted or cloud)
 
+### Making n8n Agents Commercially Viable
+
+n8n Agents are essentially intelligent workflows or automation bots that can handle tasks dynamically using built-in logic, API integrations, and optional AI capabilities (e.g., ChatGPT, LangChain, etc.).
+
+ 1. Target a Specific Niche
+ 2. Wrap n8n in a SaaS Platform
+ 3. Offer Custom Automation Services
+ 4. Integrate AI for Premium Value
+
+
+### Also Check its Market Demand on Freelance Platforms
+Upwork
+<img width="1343" height="648" alt="image" src="https://github.com/user-attachments/assets/bb730454-ad09-44ae-98a5-ec813074d228" />
+Fiverr
+<img width="1351" height="700" alt="image" src="https://github.com/user-attachments/assets/0a355ef4-ba6a-4d08-a9b6-a13a1d270775" />
+
+### How to Contribute to N8N (Opensource)
+
+https://github.com/n8n-io/n8n/blob/master/CONTRIBUTING.md
+
+
 **Let’s get started.** You’ll learn to turn LLM capabilities into dependable, auditable workflows—so your AI doesn’t just answer, it *gets things done*.
 
+**IMP NOTE** If you don’t have access to a paid OpenAI API key, you can still build and test your AI-powered n8n agents using Google's Gemini API, which offers a free tier with generous limits for developers. Gemini works well for testing, learning, and even lightweight production use cases. Just update your API node or HTTP request in n8n to call Gemini’s endpoint instead of OpenAI. It's a great alternative for prototyping without cost.
