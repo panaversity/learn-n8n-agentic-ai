@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/panaversity-learn-n8n-agentic-ai-badge.png)](https://mseep.ai/app/panaversity-learn-n8n-agentic-ai)
+
 # Agentic AI Development with Low-Code n8n and Model Context Protocol (MCP)
 
 [Class YouTube Videos](https://www.youtube.com/playlist?list=PL0vKVrkG4hWq5T6yqCtUL7ol9rDuEyzBH)
